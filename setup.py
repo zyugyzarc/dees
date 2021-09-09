@@ -6,7 +6,7 @@ setuptools.setup(
     scripts=['./deez/deez'],
     author='Me',
     description='This runs my script which is great.',
-    packages=['deez.deez']
+    packages=['deez.deez'],
     install_requires=[
         'setuptools',
         'regex >= 2021.8.3',
