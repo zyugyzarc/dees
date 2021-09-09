@@ -1,15 +1,12 @@
 import setuptools
 
-setuptools.setup(
+from setuptools import setup
+
+setup(
     name='deez',
-    version='1.0',
-    scripts=['./deez/deez'],
-    author='Me',
-    description='This runs my script which is great.',
-    packages=['deez.deez'],
+    version='0.0.1',
+    packages=['deez'],
     install_requires=[
-        'setuptools',
-        'regex >= 2021.8.3',
+        'regex'
     ],
-    python_requires='>=3.6'
 )
