@@ -1,7 +1,6 @@
 # DEEZ
 Deez is a compiled, dynamicaly typed, programming language made with C++ and Python.
 
-The name was inspired by your mom.
 
 ## Quickstart
 (if you cant tell, we need a syntax highlighter)
