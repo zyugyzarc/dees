@@ -1,4 +1,4 @@
-# DEEZ
+# Deez
 Deez is a compiled, dynamicaly typed, programming language made with C++ and Python.
 
 
