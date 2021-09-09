@@ -24,7 +24,8 @@ fizzbuzz(20)
 ```
 
 ### Installation
-* install python (if you havent already)
+* install python 3.6 or above
+* install `g++`
 * install deez `pip install git+https://github.com/zyugyzarc/deez.git`
 
 ### Usage
