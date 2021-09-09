@@ -28,6 +28,11 @@ fizzbuzz(20)
 * install python (if you havent already)
 * install deez `pip install git+https://github.com/zyugyzarc/deez.git`
 
+### Usage
+you can compile your scripts by doing  
+`python3 -m deez myfile.deez`  
+(`.deez` is the file extension for deez scripts.)
+
 ## Reference
 
 ### Types
