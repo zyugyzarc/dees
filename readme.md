@@ -1,10 +1,6 @@
 # Deez
 Deez is a compiled, dynamicaly typed, programming language made with C++ and Python.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> be067c15598c3dee63f6424a024f57ed1bc936d5
 ## Quickstart
 (using the js syntax hilighter works well enough for this)
 ```js
