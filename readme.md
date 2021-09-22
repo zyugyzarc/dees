@@ -1,6 +1,10 @@
 # Deez
 Deez is a compiled, dynamicaly typed, programming language made with C++ and Python.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> be067c15598c3dee63f6424a024f57ed1bc936d5
 ## Quickstart
 (using the js syntax hilighter works well enough for this)
 ```js
@@ -23,7 +27,8 @@ fizzbuzz(20)
 ```
 
 ### Installation
-* install python (if you havent already)
+* install python 3.6 or above
+* install `g++`
 * install deez `pip install git+https://github.com/zyugyzarc/deez.git`
 
 ### Usage
@@ -113,4 +118,8 @@ you can also use lambdas or inline functions.
 ```js
 //this is an inline function
 (x)->{ print("Hello", x) } 
+```
+and can be used to define functions normally
+```js
+func = (x)->{ print("Hello", x) }
 ```
