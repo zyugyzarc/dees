@@ -22,6 +22,8 @@ fizzbuzz(n)->{
 fizzbuzz(20)
 ```
 
+####Note: requires `g++`
+
 ### Installation
 * install python 3.6 or above
 * install `g++`
