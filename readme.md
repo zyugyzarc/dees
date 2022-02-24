@@ -1,5 +1,5 @@
-# Deez
-Deez is a compiled, dynamicaly typed, programming language made with C++ and Python.
+# Dees
+Dees is a compiled, dynamicaly typed, programming language made with C++ and Python.
 
 ## Quickstart
 (using the js syntax hilighter works well enough for this)
@@ -27,12 +27,12 @@ fizzbuzz(20)
 ### Installation
 * install python 3.6 or above
 * install `g++`
-* install deez `pip install git+https://github.com/zyugyzarc/deez.git`
+* install dees `pip install git+https://github.com/zyugyzarc/dees.git`
 
 ### Usage
 you can compile your scripts by doing  
-`python3 -m deez myfile.deez`  
-(`.deez` is the file extension for deez scripts.)
+`python3 -m dees myfile.dees`
+(`.dees` is the file extension for dees scripts.)
 
 ## Reference
 

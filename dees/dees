@@ -274,7 +274,7 @@ class Parser:
             "\\n" : "LINE_END",
             ";"   : "LINE_END",
             "[,]" : "SEPARATOR",
-            "[.]" : "SEPARATOR",  # TEMPORARY CHANGE, get __getattr__ and __setattr__ working, with __dict__
+            "[.]" : "SEPARATOR",
             "[-][>]" : "FUNC_DEF",
             "[=][=]":"OPERATOR",
             '[=]' : "ASSIGN",
